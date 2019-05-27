@@ -1,0 +1,239 @@
+Package: com.mzc.noctis12
+Name: Noctis12
+Version: 1.6.5
+Architecture: iphonesos-arm
+Description: Noctis12 - System Wide Dark Mode 
+Maintainer: MZC
+Author: LaughingQuoll
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker, com.laughingquoll.prefixui, com.spark.libsparkapplist, com.opa334.ccsupport
+Filename: debs/com.mzc.noctis12_1.6.5_iphoneos-arm.deb
+Size: 394324 
+MD5sum: b808d50dc18a98cdb57a2b6b5596f0be
+SHA1:   9b6cbd37216dc8eec9ee657ec122f261e7248671
+SHA256: ed92218680adca694e0046fb372e43e10c10e973aa57e4de0e67cd99d7bd8567
+
+Package: com.mzc.homelist
+Name: HomeList
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: An alphabetical, list-based app launcher!
+Maintainer: MZC
+Author: Blake Boxberger
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: debs/com.mzc.homelist_1.0.0_iphoneos-arm.deb
+Size: 81254
+MD5sum: 914d5dc6f78eda5dc28d954c14a2e003
+SHA1:   ba4b9badfb4cf09bd4eec55873229b624b851b3c
+SHA256:  69e731d72fc4cd7193715db331aeedd4ca27c2b462d36c79a586058352e1fdc7
+
+Package: com.mzc.boxy3
+Name: Boxy 3(iOS 11-12)
+Version: 3.4.2
+Architecture: iphoneos-arm
+Description: Fully customize your icon layout! Have you ever run into an issue with space in your SpringBoard or are you just bored with the default layout of icons? Well, Boxy can fix both of those issues. Your icon layout is fully customizable with the variety of options configurable in the settings pane. You can adjust how far each icon is from each edge of the screen and how far each icon is from one another. These combinations can provide some pretty cool layouts. If you aren't the creative type or don't want to be bothered with testing each setting, there are presets available for you to choose from. You can align you icons in the the top half of the screen or the bottom half or even the top corners of the screen. Anything is really possible.Boxy also allows for more space for Dashboard X widgets. You no longer have to compromise with which apps you want on the home page of your SpringBoard, you can now have all of them on the screen plus your favorite widgets! Use it however you like, if you find a use for it that I didn't mention please don't hesitate to contact me and let me know, I love hearing feedback about my tweaks. Boxy is fully compatible with all current devices!
+Maintainer: MZC
+Author: William Vabrinskas
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, com.chpwn.iconsupport
+Filename: debs/com.mzc.boxy3_3.4.2_iphoneos-arm.deb
+Size: 2775152
+MD5sum: 11c4735437f76745cf5935a77929fc5f
+SHA1:   6ed4fcdba959e49928edf37f75bfa8a142668d54
+SHA256: 1d5f3ea88859c451b2d68ca11c4deacbad30cf81aae7a48bcc832c8389eb71ca
+
+Package: com.mzc.eclispe12 
+Name: Eclispe Dark Mode (iOS 12)
+Version: 6.1
+Architecture: iphoneos-arm
+Description: Customizable Dark Mode iOS 12!
+Maintainer: MZC
+Author: Guillermo Morán (fr0st)
+Section: Tweaks
+Depends:  mobilesubstrate, preferenceloader, applist, firmware (>= 12.0), com.creaturesurvive.libcscolorpicker
+Filename: debs/com.mzc.eclipse12_6.1_iphoneos-arm.deb
+Size: 686400
+MD5sum: 2380f892529160222b2c13e518329a91
+SHA1:   26815dea0bce776297fa83d1ec386a8f038e2284  
+SHA256: 73caa9a3d4f099a0c81bd64d099f778a3c25ea8001cd61087c4d1c28e6018fd0
+
+Package: com.mzc.sonus12
+Name: Sonus12
+Version: 1.2.0
+Architecture: iphoneos-arm
+Description: Style for VolumeHUD
+Maintainer: MZC
+Author:  ubik <cydia@ubikstyl.es>
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Filename: debs/com.mzc.sonus12.deb
+Size: 144260
+MD5sum: 03898dd92ef565ec69ade801da1d7c4c
+SHA1:   02d1eb6c41a59683d45fde05c985489670caa9ae
+SHA256: f28dd4bf6d4f975f722c6f6e00857519992255c82643002bf6d60e9179f0369e
+
+Package: com.mzc.betterccxi
+Name: BetterCCXI
+Version: 1.4.8
+Architecture: iphoneos-arm
+Description: Enhance your control center on iOS 11 and iOS 12
+Maintainer: MZC
+Author: ATWiiks
+Section: Tweaks
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
+Filename: debs/com.mzc.betterccxi_1.4.8_iphoneos-arm.deb
+Size: 61522
+MD5sum: 68078c10e449786878f2f35bddf0a368
+SHA1:   8c5f90d1577dd9bce904a28889accac2c606b508
+SHA256: b16895c9e71582586d92c489f30ea4eef06581e5a334b8b52033a28dfe9f98c0
+
+Package: com.mzc.missioncontrol
+Name: MissionControl
+Version: 1.1.1
+Architecture: iphoneos-arm
+Description:  Bring real power to your Control Center
+Maintainer: MZC
+Author: DylanDuff
+Section: Tweaks
+Depends:  mobilesubstrate, com.opa334.ccsupport, preferenceloader, com.midnightchips.ldrun, applist, ws.hbang.common
+Filename: debs/com.mzc.missioncontrol_1.1.1_iphoneos-arm.deb
+Size: 1911012
+MD5sum: 0932e4e8343228b59522a6b1e3b5024c
+SHA1:   1b1cf5a85470b256bf50e72367642fbba1c92788
+SHA256: b3a524e5035c2f5256ead56a466e08095efdf8fc5233b1bfd7c643cf62a98c10
+
+Package: com.mzc.colorbadges
+Name: ColorBadges
+Version: 1.3.2
+Architecture: iphoneos-arm
+Description: Colorize your badges
+Maintainer: MZC
+Author: David Goldman
+Section: Tweaks
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5.000), preferenceloader
+Filename: debs/com.mzc.colorbadges-new_1.3.2_iphoneos-arm.deb 
+Size: 80060
+MD5sum: e242beb23d449364140dc0c1eba157d5
+SHA1:   b1dfd9955ba77d685e14268f1b2b13f8bbfa827f
+SHA256: ff86ba4ded49935c92189b78efaba920001c355f564849c041330d178eb44923 
+
+Package: com.mzc.colorbanners2
+Name: ColorBanners 2
+Version: 1.2.4
+Architecture: iphoneos-arm
+Description: 
+Maintainer: MZC
+Author: David Goldman
+Section: Tweaks
+Depends:  firmware (>= 10.0), mobilesubstrate (>= 0.9.5.000), org.thebigboss.libcolorpicker (>= 1.1)
+Filename: debs/com.mzc.colorbanners2-new_1.2.4_iphoneos-arm.deb
+Size: 728958
+MD5sum: e0c1fdc67f8a36606ae935d675534857
+SHA1:   4ee3c8c9342c981a8d400d9c106d7992caa795a3
+SHA256: fe7392c76b7fa8230857ab511e7895d23a311f3ac91bc3496ffff29bb44f8ca9
+
+Package: com.mzc.colorflow4
+Name: ColorFlow 4
+Version: 1.2.3
+Architecture: iphoneos-arm
+Description: 
+Maintainer: MZC
+Author: David Goldman
+Section: Tweaks
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5.000), preferenceloader
+Filename: debs/com.mzc.colorflow4_1.2.3_iphoneos-arm.deb
+Size: 913238
+MD5sum: 3b680ed5508ed9cd3d381137e4db9c50
+SHA1:   4710d6e1f6ea56b328dfa91634f96ca37ae33c5f
+SHA256: e06b3f454a532f6683aefab6e69fa382ced2803b4d44c151a56a34392a687529
+
+Package: com.mzc.notifywifix
+Name: NotifyWifi X
+Version: 1.0.7
+Architecture: iphoneos-arm
+Description: 
+Maintainer: MZC
+Author: ichitaso
+Section: Tweaks
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader
+Filename: debs/com.mzc.notifywifix_1.0.7_iphoneos-arm.deb 
+Size: 384988
+MD5sum: 4fbf51ad3b30ceb5a1cc0a51f837555e
+SHA1:   7847bde5efd3ff50054eb3f7825d30625e6042be
+SHA256: fbf4dfb3cd49ce28742d036027f82cdec8be6e7f803cc79b671e78a5167b64f9
+
+Package: com.mzc.floatingdockplus
+Name: FloatingDockPlus
+Version: 1.3.3
+Architecture: iphoneos-arm
+Description: 
+Maintainer: MZC
+Author: P2KDev 
+Section: Tweaks
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker, com.spark.libsparkapplist
+Filename: debs/com.mzc.floatingdockplus_1.3.3_iphoneos-arm.deb
+Size: 94994
+MD5sum: 15fe4e727e1a3cb75dd211b2ddc96521
+SHA1:   5c8193812a6450fbc5143ab6f7bf8a29b7b419fd
+SHA256: 70009295a4c33f5d287d1d7d4c5745dd4fb6773e4308e379530e35b345bafa24
+
+Package: com.mzc.modulus
+Name: Modulus
+Version: 1.1.1
+Architecture: iphoneos-arm
+Description: Introduces several awesome new CC modules.
+Maintainer: MZC
+Author: LaughingQuoll
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap, preferenceloader, com.laughingquoll.prefixui, com.opa334.ccsupport
+Filename: debs/com.mzc.modulus_1.1.1_iphoneos-arm.deb
+Size: 203182 
+MD5sum: 85d7ff6ef02d1acd24a7d0bf304ed08d
+SHA1:   52795d3d5545bd09ae6011da1c346407b48e3828
+SHA256: 9ec60787fa07a08eb9013507c8d646c1dd2f27dcf9e545ec052d8e45180e0753
+
+Package: com.mzc.maple
+Name: Maple
+Version: 1.1.1
+Architecture: iphoneos-arm
+Description: A pretty sweet MobileSubstrate tweak.
+Maintainer: MZC
+Author: LaughingQuoll
+Section: Tweaks
+Depends: mobilesubstrate, com.laughingquoll.prefixui, net.limneos.libbulletin, me.nepeta.libcolorpicker
+Filename: debs/com.mzc.maple_1.1.1_iphoneos-arm.deb
+Size: 60028340
+MD5sum: 301f24f1609889af27c7c043f71c00fe
+SHA1:   14263f028ee26ff9b4cb48bc2795ceea865faaf7
+SHA256: d6288607763dabbc6ea1d0dffc3aa44a415f63810d7b9be58394bfc48edd2927 
+
+Package: com.mzc.copylog
+Name: CopyLog
+Version: 1.1.5
+Architecture: iphoneos-arm
+Description: Clipboard history manager for iOS!
+Maintainer: MZC
+Author: TomT100
+Section: Tweaks
+Depends:  mobilesubstrate
+Filename: debs/com.mzc.copylog_1.1.5_iphoneos-arm.deb
+Size: 1023734
+MD5sum: b903566d69c976f5fc2d1ba933a886ed
+SHA1:   ed05c8b33534da2a38c52e7deda3b4b8d548c73b
+SHA256: d8d28162d1f88a05ab3dfba735ba6016f43ec8935c01ebda27918664375bad17
+
+Package: com.mzc.ikeywi3p
+Name: iKeyWi 3 (iOS 8-12)
+Version: 3.4.2
+Architecture: iphoneos-arm
+Description: Customize your 5-Row keyboard
+Maintainer: MZC
+Author: Hiraku
+Section: Tweaks
+Depends: preferenceloader, mobilesubstrate, firmware (>= 8.0), applist
+Filename: debs/com.mzc.ikeywi3p_3.4.2_iphoneos-arm.deb
+Size: 398830
+MD5sum: 84b507dc1d6523876d1f26850739f105
+SHA1:   274939b6f717d2a2f46bb6a04b4ca552d43bee29
+SHA256: 5a2f66b5203c96f0ac765f32833a6d0f7765b33eaa43d333233618826311e4dd
